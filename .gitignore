@@ -1,0 +1,12 @@
+# Verilator build artifacts
+obj_dir/
+*.mk
+*.dat
+
+# Waveform trace outputs
+*.vcd
+*.fst
+
+# Local editor/system files
+.vscode/*.log
+.DS_Store
